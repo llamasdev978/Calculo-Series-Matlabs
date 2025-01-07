@@ -3,9 +3,8 @@
 
 Una serie matemática es __la suma__ de los términos de una sucesión. Se define como:
 
-`
-S=∑n=1∞an == Serie = sumatorio(n=1 hasta infinito) * (a sub n)
-`
+
+$`S = \sum_{n=1}^{\infty} a_n`$
 
 Donde __(a sub n)__ representa los términos de la sucesión. 
 Si la suma parcial de la serie tiende a un límite finito cuando el número de términos tiende a infinito, decimos que la serie __converge__.
@@ -71,16 +70,20 @@ disp(S_geometrica)
 Existen varios tipos de series, entre las más comunes se encuentran:
 
 Serie aritmética: Suma de términos con una diferencia constante.
-S=a+(a+d)+(a+2d)+…
+
+$`S = a + (a + d) + (a + 2d) + …`$
 
 Serie geométrica: Suma de términos con una razón constante.
-S=a+ar+ar2+…
+
+$`S = a+ar+ar2+…`$
 
 Serie armónica: Suma de los inversos de los números naturales.
-S=∑n=1∞1n
+
+$`S = \sum_{n = 1}^{\infty} \frac{1}{n}`$
     
 Serie de potencias: Expresión de una función como suma infinita de potencias.
-S=∑n=0∞cn(x−a)n
+
+$`S = \sum_{n = 0}^{\infty} c_n(x - a)^n`$
 
 ### Ejemplo: Serie armónica
 
