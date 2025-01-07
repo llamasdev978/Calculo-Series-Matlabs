@@ -15,7 +15,7 @@ Si la suma parcial de la serie tiende a un límite finito cuando el número de t
 
 En una serie aritmética, cada término se obtiene sumando una constante dd al término anterior.
 
-```
+```matlab
 a = 1; % Primer término
 n = 10; % Número de término
 d = 2; % Diferencia común
@@ -28,7 +28,7 @@ disp(S_aritmetica)
 
 En una serie geométrica, cada término se obtiene multiplicando el término anterior por una constante rr.
 
-```
+```matlab
 r = 2; % Razón común
 n = 10; % Número de términos
 a = 1; % Primer término
