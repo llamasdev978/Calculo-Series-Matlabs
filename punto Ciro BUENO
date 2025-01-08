@@ -1,0 +1,50 @@
+## Introducción: Análisis de Series Numéricas en MATLAB
+
+Es conocido por todos que las **series numéricas** son una rama fundamental de las matemáticas
+en especial del cálculo y tienen aplicaciones muy importantes en áreas como la ingeniería, la física, 
+en áreas económicas, entre otras. Una serie numérica es una secuencia de números ordenados, llamados
+términos, que siguen una regla de formación, ya séa una suma infinita de términos, como una resta, multiplicación
+, división o algo más complejo, cuyo comportamiento depende de la secuencia de los mismos. Algunas 
+de las series más elementales incluyen las **aritméticas**, **geométricas**, **de Fourier** y **de Taylor**.
+Las series son muy utilizadas en el análisis de señales, la modelización de fénomenos físicos y la aproximación
+de funciones siendo de gran utilidad en la resolución de problemas numéricos.
+
+Principalmente esta memoria se enfoca en analizar e investigar distintos tipos de series numéricas
+con el uso de MATLAB, siendo este un entorno interactivo que permite realizar cálculos númericos
+, visualizar datos, manipular matrices y desarrollar algoritmos, entre otras cosas.
+Mediante la investigación de las propiedades fundamentales de las series, como la **convergencia**
+y la **divergencia**, se buscará entender el comportamiento de estas y su aplicación al mundo real.
+
+Este proyecto intercalará teoría matemática con herramientas informáticas, en este caso MATLAB, 
+permitiendonos ver la utilidad de las series para sus distintas disciplinas en situaciones reales.
+
+## Objetivos
+
+En base a los requisitos pedidos se han extraido los siguientes objetivos:
+
+1. **Investigar y categorizar distintos tipos de series numéricas**: Serán investigadas distintos
+tipos de series como las aritméticas, geométricas, de potencias, de Taylor y de Fourier, enfocándose
+en sus propiedades, fórmulas generales y aplicaciones a la realidad.
+
+2. **Desarrollar las series numéricas en MATLAB**: Se implementarán algoritmos para determinar los
+términos de las series, utilizando tanto métodos simbólicos como numéricos, facilitando de esta
+manera su evaluación exacta.
+
+3. **Analizar la convergencia y divergencia**: Será analizado la manera en la que una serie
+numérica converge a un valor concreto o diverge, empleando criterios y herramientas de computación.
+
+4. **Elaborar visualizaciones gráficas**: En busqueda del entendimiento del comportamiento de 
+las series se desarrollarán representaciones gráficas mediante MATLAB para visualizar el 
+comportamiento de las series a medidaque se añaden términos
+
+5.**Aplicar las series numéricas a problemas prácticos**: Gracias a herramientas como las 
+series de Taylor para aproximar funciones o las series de Fourier para el análisis de señales
+nos hacen saber su impacto en diferentes campos.
+
+6.**Estudiar el rendimiento computacional**: Con el fin de optimizar los procesos y reducir
+errores de aproximación se evaluarán la eficiencia de los métodos utilizados en MATLAB.
+
+Este proyecto añade una visión más práctica utilizando MATLAB para la resolución de problemas
+complejos de manera eficiente, además de investigar en la teoría de las series numéricas.
+
+
